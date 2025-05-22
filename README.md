@@ -1,3 +1,5 @@
+Website of Mariam Gedenidze
+You can dind instructions of how to create your own website below.
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
