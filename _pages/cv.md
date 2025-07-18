@@ -15,9 +15,9 @@ Education
 * Master 1 in Applied Mathematics and Data Science, IP Paris, 2024
 * B.S. in Mathematics and Economics, Ecole Polytechnique, 2023
 
-Work experience
+/// Work experience
 ======
-* Summer 2025: AI for restoration
+# * Summer 2025: AI for restoration
   * Conservation International
   * Duties includes: help integrate AI in operations
   * Supervisor: ---
